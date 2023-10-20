@@ -1,2 +1,2 @@
 #DEMO
-Some Information
+Some Information about git and fithub
